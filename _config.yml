@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Josué Condori
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: hello
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://scontent-sjc3-1.xx.fbcdn.net/v/t1.6435-9/154328704_194486592432612_821158237342211930_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=174925&_nc_ohc=Ey6_U-dXXWAAX8vugMh&_nc_ht=scontent-sjc3-1.xx&oh=00_AfDF7IBhvc09Igpzwb0MQ3Dmwyo1ELdNZZWblwUYZkp2Fw&oe=64339DC8
 
 #
 # Flags below are optional
@@ -18,15 +18,15 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email:josucoalan17@gmail.com
+  facebook:josue condori
   flickr:
-  github: barryclark/jekyll-now
-  instagram:
+  github: josuco17/superjos-test
+  instagram:josuco_a
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: josue_condori19
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
